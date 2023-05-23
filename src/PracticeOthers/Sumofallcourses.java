@@ -24,6 +24,6 @@ public class Sumofallcourses {
 	System.out.println(sum);
 	int purchaseamount=js.getInt("dashboard.purchaseAmount");
 	Assert.assertEquals(sum, purchaseamount);
-	
+	//Hello git
 }
 }
